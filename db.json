@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "oluwafunmike222@gmail.com",
+      "password": "Olojede1",
+      "name": "Oluwafunmike Olojede"
+    },
+    {
+      "id": "ca4a",
+      "name": "ifedolapo olojede",
+      "email": "eve.holt@reqres.in",
+      "password": "Olojede"
+    },
+    {
+      "id": "d1a6",
+      "name": "ifedolapo olojede",
+      "email": "tolulopemi146@gmail.com",
+      "password": "Olojede"
+    },
+    {
+      "id": "bde8",
+      "name": "oluwayemisi olojede",
+      "email": "adebolaolojede@gmail.com",
+      "password": "Adebola1"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Full-Stack Web Development",
+      "description": "Master HTML, CSS, JavaScript, React, Node.js, and MongoDB to build responsive and scalable web applications.",
+      "image": "https://img.icons8.com/color/96/000000/source-code.png"
+    },
+    {
+      "id": 2,
+      "title": "Data Science & Machine Learning",
+      "description": "Learn Python, Pandas, NumPy, Scikit-Learn, and TensorFlow to analyze data, create predictions, and build ML models.",
+      "image": "https://img.icons8.com/color/96/000000/artificial-intelligence.png"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "description": "Design stunning, user-friendly interfaces with Figma, Adobe XD, and design principles that enhance user experiences.",
+      "image": "https://img.icons8.com/color/96/000000/design.png"
+    },
+    {
+      "id": 4,
+      "title": "Cybersecurity Fundamentals",
+      "description": "Understand network security, ethical hacking, and best practices to protect systems from threats and vulnerabilities.",
+      "image": "https://img.icons8.com/color/96/000000/security-checked.png"
+    },
+    {
+      "id": 5,
+      "title": "Cloud Computing with AWS & Azure",
+      "description": "Deploy, scale, and manage apps in the cloud using AWS and Microsoft Azure for real-world enterprise solutions.",
+      "image": "https://img.icons8.com/color/96/000000/cloud.png"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "title": "Build a Portfolio Website",
+      "courseId": 1,
+      "dueDate": "2025-09-10",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Data Analysis Project",
+      "courseId": 2,
+      "dueDate": "2025-09-15",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "title": "Redesign a Mobile App",
+      "courseId": 3,
+      "dueDate": "2025-09-20",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "Penetration Testing Lab",
+      "courseId": 4,
+      "dueDate": "2025-09-22",
+      "status": "in-progress"
+    },
+    {
+      "id": 5,
+      "title": "Deploy on AWS",
+      "courseId": 5,
+      "dueDate": "2025-09-25",
+      "status": "pending"
+    }
+  ]
+}
